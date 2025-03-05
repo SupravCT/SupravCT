@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suprav Chand</h1>
-<h3 align="center">A passionate frontend developer from Nepal</h3>
+<h3 align="center">A passionate Full Stack Developer from Nepal</h3>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Personal Portfolio **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
