@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Suprav Chand</h1>
 <h3 align="center"> Passionate IN AI BIG DATA MACHINE LEARNING </h3>
 
--  **
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
